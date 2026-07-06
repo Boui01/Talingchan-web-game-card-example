@@ -3,21 +3,57 @@
     "primary": 1,
     "nameTH": "หน้าการ์ดในเด็คทั้งหมด",
     "nameEN": "All Cards in the Deck Page",
-    "All Cards/หน้าการ์ดในเด็คทั้งหมด.png": {
+    "All-Cards/หน้าการ์ดในเด็คทั้งหมด.png": {
       "primary": 1,
       "th": "หน้าสำหรับดูการ์ดในเด็คทั้งหมดที่จะไปใช้ในการเล่นเกม โดยผู้เล่นสามารถดูรายละเอียดของการ์ดแต่ละใบและกรองตามประเภทของการ์ดได้",
       "en": "Page for viewing all cards in the deck to be used in the game, where players can view details of each card and filter by card type"
     },
-    "All Cards/หน้ากรอกเลขรหัสcodeจากเว็บแปลงเป็นเด็ค.png": {
+    "All-Cards/หน้ากรอกเลขรหัสcodeจากเว็บแปลงเป็นเด็ค.png": {
       "primary": 2,
       "th": "หน้าสำหรับกรอกเลขรหัส code จากเว็บ https://bangbon.app เพื่อแปลงเป็นเด็ค โดยผู้เล่นสามารถกรอกเลขรหัส code ของเด็คที่ต้องการนำเข้าและกดปุ่มเพื่อแปลงเป็นเด็คได้",
       "en": "Page for entering the code from the website https://bangbon.app to convert into a deck, where players can enter the code of the deck they want to import and click the button to convert it into a deck"
     },
-    "All Cards/หน้าดูข้อมูลการ์ด.png": {
+    "All-Cards/หน้าดูข้อมูลการ์ด.png": {
       "primary": 3,
       "th": "หน้าสำหรับดูข้อมูลของการ์ดแต่ละใบ โดยผู้เล่นสามารถดูรายละเอียดของการ์ด เช่น ชื่อการ์ด, ประเภทการ์ด, ความสามารถพิเศษ และรูปภาพของการ์ดได้",
       "en": "Page for viewing information of each card, where players can view details of the card such as card name, card type, special abilities, and card image"
     }
+  },
+  "Play-Simulator": {
+    "primary": 1,
+    "nameTH": "หน้าจำลองการเล่นเกม",
+    "nameEN": "Play Simulator Page",
+    "Play-Simulator/หน้าสนามการเล่นแบบยังไม่เริ่มเกม.png": {
+      "primary": 1,
+      "th": "หน้าสำหรับจำลองการเล่นเกม โดยหน้าตอนนี้จะเป็นการรอกดเริ่มเกมเล่นคนเดียวหรือกดแยกจอสำหรับเล่นผ่านเน็ตกับเพื่อน",
+      "en": "Page for simulating the game, where this screen is waiting to start the game for single-player or split-screen for playing online with friends"
+    },
+    "Play-Simulator/หน้าเกมฝั่ง-ผู้เล่น.png": {
+      "primary": 2,
+      "th": "หน้าสำหรับจำลองการเล่นเกม โดยหน้าตอนนี้จะเป็นการเล่นเกมที่เริ่มไปแล้ว แต่จะเป็นหน้าจอฝั่งผู้เล่นที่สามารถดูข้อมูลการ์ดบนมือของตัวเอง",
+      "en": "Page for simulating the game, where this screen is for the player side that can view cards on their own hand and their own information"
+    },
+    "Play-Simulator/หน้าเกมแชร์ฝั่ง-คนอื่น.png": {
+      "primary": 3,
+      "th": "หน้าสำหรับจำลองการเล่นเกม โดยหน้าตอนนี้จะเป็นการเล่นเกมที่เริ่มไปแล้ว แต่จะเป็นหน้าจอฝั่งผู้เล่นคนอื่นที่สามารถดูข้อมูลการ์ดบนสนามได้อย่างเดียว",
+      "en": "Page for simulating the game where this screen is for the other player's side that can only view the cards on the field"
+    },
+    "Play-Simulator/หน้าเลือกดูใบบนสุดของเด็ค.png" : {
+      "primary": 4,
+      "th": "หน้าเลือกดูการ์ดใบบนสุดของเด็ค โดยผู้เล่นสามารถเลือกดูการ์ดใบบนสุดของเด็คได้",
+      "en": "Page for selecting to view the top card of the deck, where players can choose to view the top card of the deck"
+    },
+    "Play-Simulator/หน้าค้นหาการ์ดจากในเด็ค.png" : {
+      "primary": 5,
+      "th": "หน้าค้นหาการ์ดจากในเด็ค โดยผู้เล่นสามารถค้นหาการ์ดในเด็คได้",
+      "en": "Page for searching cards within the deck, where players can search for specific cards in their  deck"
+    },
+    "Play-Simulator/หน้าแสดงกดเปลี่ยนการ์ดตอนเริ่มเกม.png" : {
+      "primary": 6,
+      "th": "หน้าแสดงกดเปลี่ยนการ์ดตอนเริ่มเกม โดยผู้เล่นสามารถเปลี่ยนการ์ดได้",
+      "en": "Page for displaying card change options at the start of the game, where players can switch cards"
+    }
+
   }
  
 }
