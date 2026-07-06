@@ -1,0 +1,23 @@
+{
+  "All Cards": {
+    "primary": 1,
+    "nameTH": "หน้าการ์ดในเด็คทั้งหมด",
+    "nameEN": "All Cards in the Deck Page",
+    "All Cards/หน้าการ์ดในเด็คทั้งหมด.png": {
+      "primary": 1,
+      "th": "หน้าสำหรับดูการ์ดในเด็คทั้งหมดที่จะไปใช้ในการเล่นเกม โดยผู้เล่นสามารถดูรายละเอียดของการ์ดแต่ละใบและกรองตามประเภทของการ์ดได้",
+      "en": "Page for viewing all cards in the deck to be used in the game, where players can view details of each card and filter by card type"
+    },
+    "All Cards/หน้ากรอกเลขรหัสcodeจากเว็บแปลงเป็นเด็ค.png": {
+      "primary": 2,
+      "th": "หน้าสำหรับกรอกเลขรหัส code จากเว็บ https://bangbon.app เพื่อแปลงเป็นเด็ค โดยผู้เล่นสามารถกรอกเลขรหัส code ของเด็คที่ต้องการนำเข้าและกดปุ่มเพื่อแปลงเป็นเด็คได้",
+      "en": "Page for entering the code from the website https://bangbon.app to convert into a deck, where players can enter the code of the deck they want to import and click the button to convert it into a deck"
+    },
+    "All Cards/หน้าดูข้อมูลการ์ด.png": {
+      "primary": 3,
+      "th": "หน้าสำหรับดูข้อมูลของการ์ดแต่ละใบ โดยผู้เล่นสามารถดูรายละเอียดของการ์ด เช่น ชื่อการ์ด, ประเภทการ์ด, ความสามารถพิเศษ และรูปภาพของการ์ดได้",
+      "en": "Page for viewing information of each card, where players can view details of the card such as card name, card type, special abilities, and card image"
+    }
+  }
+ 
+}
